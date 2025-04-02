@@ -28,8 +28,8 @@ ROC-кривая (Receiver Operating Characteristic curve) — это графи
 ![precision](https://github.com/LugenderGeist/computer_vision_4/blob/main/pre.PNG)
 
 ### Матрица ошибок
-Матрица ошибок (Confusion Matrix) — это таблица, которая используется для оценки производительности модели классификации. Она показывает, как модель классифицирует объекты, сравнивая предсказанные метки с истинными метками.
-![matrix](https://github.com/LugenderGeist/computer_vision_4/blob/main/matrix.PNG)  
+Матрица ошибок (Confusion Matrix) — это таблица, которая используется для оценки производительности модели классификации. Она показывает, как модель классифицирует объекты, сравнивая предсказанные метки с истинными метками.  
+![matrix](https://github.com/LugenderGeist/computer_vision_4/blob/main/matrix.png)  
 
 
 ## Результаты классификации
