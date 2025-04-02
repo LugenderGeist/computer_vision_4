@@ -13,11 +13,11 @@ ROC-кривая (Receiver Operating Characteristic curve) — это графи
 
 ### Метрики: Accuracy, Recall, Precision
 Эти метрики используются для оценки производительности модели в задачах классификации.  
-- Accuracy — это доля правильно предсказанных примеров среди всех примеров.
-[accuracy](https://github.com/LugenderGeist/computer_vision_4/blob/main/acc.PNG)
-- Recall — это доля правильно предсказанных положительных примеров среди всех истинно положительных примеров. (Когда важно минимизировать ложноотрицательные ошибки)
-![recall](https://github.com/LugenderGeist/computer_vision_4/blob/main/re.PNG)
-- Precision — это доля правильно предсказанных положительных примеров среди всех предсказанных как положительные. (Когда важно минимизировать ложноположительные ошибки)
-![precision](https://github.com/LugenderGeist/computer_vision_4/blob/main/pre.PNG)
+- Accuracy — это доля правильно предсказанных примеров среди всех примеров.  
+![accuracy](https://github.com/LugenderGeist/computer_vision_4/blob/main/acc.PNG)  
+- Recall — это доля правильно предсказанных положительных примеров среди всех истинно положительных примеров. (Когда важно минимизировать ложноотрицательные ошибки)  
+![recall](https://github.com/LugenderGeist/computer_vision_4/blob/main/re.PNG)  
+- Precision — это доля правильно предсказанных положительных примеров среди всех предсказанных как положительные. (Когда важно минимизировать ложноположительные ошибки)  
+![precision](https://github.com/LugenderGeist/computer_vision_4/blob/main/pre.PNG)  
 
 ## Результаты классификации
