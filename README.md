@@ -37,4 +37,4 @@ ROC-кривая (Receiver Operating Characteristic curve) — это графи
 ROC-кривые в результате работы с данными получились следующей формы:  
 ![ROC](https://github.com/LugenderGeist/computer_vision_4/blob/main/ROC.png)  
 Метрики accuracy, precision и recall, а также матрицы ошибок имеют следующие значения:
-![metrics](https://github.com/LugenderGeist/computer_vision_4/blob/main/results.png) 
+![metrics](https://github.com/LugenderGeist/computer_vision_4/blob/main/results.PNG) 
