@@ -44,5 +44,5 @@ ROC-кривая (Receiver Operating Characteristic curve) — это графи
 ROC-кривые в результате работы с данными получились следующей формы:  
 ![ROC](https://github.com/LugenderGeist/computer_vision_4/blob/main/roc.png)  
 Метрики accuracy, precision и recall, а также матрицы ошибок имеют следующие значения:
-![metrics](https://github.com/LugenderGeist/computer_vision_4/blob/main/results.PNG)  
+![metrics](https://github.com/LugenderGeist/computer_vision_4/blob/main/metrics.png)  
 По результатам классификации на тестовой выборке общая точность составила 89%. Учитывая, что ко второму классу относились изображения с опухолью - правильнее, что recall для второго класса выше, чем для первого, потому что в случае работы с медицинскими данными лучше получить ложноположительный результат, чем не распознать болезнь.
